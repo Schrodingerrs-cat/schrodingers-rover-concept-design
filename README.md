@@ -1,57 +1,39 @@
+# 🛰️ Schrodinger's Rover
 
-# Schrodinger's Rover
+**Schrodinger’s Rover** is an experimental autonomous robotics platform developed for the **IRoC U-2024** competition by **Team Dyaus**, under the leadership of **Aryan Shah**.  
+This repository encapsulates the core concepts, control algorithms, sensor integrations, and supporting documentation behind the rover’s development.
 
-An experimental robotics project developed by Aryan Shah.  
-This repo contains core scripts and logic for a ground-based rover with modular features including motor control, sensor interfacing, and remote commands.
-
----
-
-## 📦 Project Structure
-
-```bash
-.
-├── motor_control/        # Scripts for motor direction and PWM
-├── sensor_modules/       # Ultrasonic, IR, or other sensor handlers
-├── communication/        # Serial or wireless communication scripts
-├── main.py               # Main execution script
-└── README.md             # You're reading it
-```
+The goal of this project is to explore robust navigation, object detection, and decision-making capabilities for semi-autonomous planetary exploration using modular, open-source software.
 
 ---
 
-## 🛠 Features
+## 🔧 Tech Stack
 
-- Modular motor control
-- Sensor integration
-- Remote command interface
-- Python-based control logic
-
----
-
-## 🧰 How to Use
-
-1. Clone the repo:
-   ```bash
-   git clone https://github.com/aryanshah/schrodingers-rover.git
-   cd schrodingers-rover
-   ```
-
-2. Run the main control script:
-   ```bash
-   python main.py
-   ```
-
-3. Customize `motor_control/` and `sensor_modules/` for your specific hardware setup.
+- **Programming Languages**: Python, C++
+- **Frameworks**: ROS (Robot Operating System), OpenCV
+- **Simulation**: Gazebo, RViz
+- **Microcontrollers**: Arduino, Raspberry Pi (depending on version)
+- **Sensor Suite**: Ultrasonic, IMU, GPS, Camera
 
 ---
 
 ## 👨‍💻 Author
 
 Maintained by **Aryan Shah**  
-For questions, feel free to open an issue or PR.
+Lead Developer & Systems Integrator – **Team Dyaus, IRoC U-2024**
+
+For questions or collaborations, please open an [Issue](https://github.com/aryanshah2024/schrodingers-rover/issues) or a PR.
 
 ---
 
 ## 🪪 License
 
-This project is open-source under the MIT License.
+This project is open-source and available under the [MIT License](LICENSE).
+
+---
+
+## 🌌 Acknowledgments
+
+- **IRoC U-2024 Committee** for the challenge and platform  
+- **Team Dyaus** for collaboration, testing, and feedback  
+- Open-source communities behind ROS, OpenCV, and Python
