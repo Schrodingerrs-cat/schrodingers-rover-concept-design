@@ -20,7 +20,7 @@ The goal of this project is to explore robust navigation, object detection, and 
 ## 👨‍💻 Author
 
 Maintained by **Aryan Shah**  
-Lead Developer & Systems Integrator – **Team Dyaus, IRoC U-2024**
+Lead Developer & Systems Integrator – **Team Dyaus**
 
 For questions or collaborations, please open an [Issue](https://github.com/aryanshah2024/schrodingers-rover/issues) or a PR.
 
