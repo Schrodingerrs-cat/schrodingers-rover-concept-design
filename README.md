@@ -20,17 +20,12 @@ The goal of this project is to explore robust navigation, object detection, and 
 ## 👨‍💻 Author
 
 Maintained by **Aryan Shah**  
-Lead Developer & Systems Integrator – **Team Dyaus**
+All right reserved to **Team Dyaus**.
 
 For questions or collaborations, please open an [Issue](https://github.com/aryanshah2024/schrodingers-rover/issues) or a PR.
 
 ---
 
-## 🪪 License
-
-This project is open-source and available under the [MIT License](LICENSE).
-
----
 
 ## 🌌 Acknowledgments
 
