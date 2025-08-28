@@ -1,6 +1,6 @@
 # 🛰️ Schrodinger's Rover
 
-This **Rover** is an experimental autonomous robotics platform developed for the **IRoC U-2024** competition by **[Team Dyaus](https://www.teamdyaus.space/), Nirma University (**.  
+This **Rover** is an experimental autonomous robotics platform developed for the **IRoC U-2024** competition by **[Team Dyaus](https://www.teamdyaus.space/), Nirma University**.  
 This repository encapsulates the core concepts, control algorithms, sensor integrations, and supporting documentation behind the rover’s development.
 
 The goal of this project is to explore robust navigation, object detection, and decision-making capabilities for semi-autonomous planetary exploration using modular, open-source software.
