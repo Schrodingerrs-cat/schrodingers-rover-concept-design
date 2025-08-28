@@ -1,6 +1,6 @@
 # 🛰️ Schrodinger's Rover
 
-**Schrodinger’s Rover** is an experimental autonomous robotics platform developed for the **IRoC U-2024** competition by **Team Dyaus**, under the leadership of **Aryan Shah**.  
+This **Rover** is an experimental autonomous robotics platform developed for the **IRoC U-2024** competition by **[Team Dyaus](https://www.teamdyaus.space/), Nirma University (**.  
 This repository encapsulates the core concepts, control algorithms, sensor integrations, and supporting documentation behind the rover’s development.
 
 The goal of this project is to explore robust navigation, object detection, and decision-making capabilities for semi-autonomous planetary exploration using modular, open-source software.
@@ -11,9 +11,9 @@ The goal of this project is to explore robust navigation, object detection, and 
 
 - **Programming Languages**: Python, C++
 - **Frameworks**: ROS (Robot Operating System), OpenCV
-- **Simulation**: Gazebo, RViz
-- **Microcontrollers**: Arduino, Raspberry Pi (depending on version)
-- **Sensor Suite**: Ultrasonic, IMU, GPS, Camera
+- **Simulation**: Gazebo
+- **Microcontrollers**: Arduino, Raspberry Pi
+- **Sensor Suite**: Ultrasonic, IMU, GPS, Camera, etc
 
 ---
 
